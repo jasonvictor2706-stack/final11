@@ -11,11 +11,5 @@
       "source": "/(.*)",
       "destination": "/index.html"
     }
-  ],
-
-  "functions": {
-    "api/v1/[...].py": {
-      "runtime": "python3.11"
-    }
-  }
+  ]
 }
