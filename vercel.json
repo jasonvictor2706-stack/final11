@@ -17,15 +17,5 @@
     "api/v1/[...].py": {
       "runtime": "python3.11"
     }
-  },
-
-  "env": {
-    "MONGODB_URI": "@mongodb_uri",
-    "REDIS_URL": "@redis_url",
-    "JWT_SECRET": "@jwt_secret",
-    "OPENAI_API_KEY": "@openai_api_key",
-    "GOOGLE_CLIENT_ID": "@google_client_id",
-    "GOOGLE_CLIENT_SECRET": "@google_client_secret",
-    "WEATHER_API_KEY": "@weather_api_key"
   }
 }
